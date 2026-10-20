@@ -1,2 +1,2 @@
 # Campus Student Directory
-![App screenshot](screenshots/app.png)
+![App screenshot](screenshots/app.PNG)
